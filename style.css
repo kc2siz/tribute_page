@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+#image {
+    max-width: 20%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+  }
+
+  #img-div {
+      text-align: center;
+  }
+
+  #img-caption {
+    max-width: 20%;
+    text-align: center;
+  }
